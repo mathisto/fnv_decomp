@@ -74,7 +74,6 @@
 {"address": "0x00a71ec0", "old_symbols": ["?FUN_00a71ec0@CloneA9B3@@QAEXPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?FUN_00a71ec0@NiAmbientLight@@QAEXPAV1@AAVCloningProcessA9B3@@@Z"]}
 {"address": "0x00a9b3d0", "old_symbols": ["?NiAmbientLight_CreateClone@CloneA9B3@@QAEPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?NiAmbientLight_CreateClone@NiAmbientLight@@QAEPAV1@AAVCloningProcessA9B3@@@Z"]}
 {"address": "0x00aca390", "old_symbols": ["??0FUN_00aca390@@QAE@PAX@Z"], "new_symbols": ["??0failure@@QAE@PAX@Z"]}
-{"address": "0x00b008d0", "old_symbols": ["?BSContentPackage_DisplayName@FUN_00b008d0_StandIn@@QAEPAXXZ"], "new_symbols": ["?BSContentPackage_DisplayName@BSContentPackage@@QAEPAXXZ"]}
 {"address": "0x00b02860", "old_symbols": ["??1FUN_00b02860@@UAE@XZ"], "new_symbols": ["??1BSWin32TaskletGroupData@@UAE@XZ"]}
 {"address": "0x00b0a9a0", "old_symbols": ["?CIndexedGeometry_GetNumStrips@GeometryProcessor@@QAEGF@Z"], "new_symbols": ["?CIndexedGeometry_GetNumStrips@CIndexedGeometry@@QAEGF@Z"]}
 {"address": "0x00b10dc0", "old_symbols": ["??0FUN_00b10dc0@@QAE@PAU0@@Z"], "new_symbols": ["??0CIdvBranch@@QAE@PAU0@@Z"]}
