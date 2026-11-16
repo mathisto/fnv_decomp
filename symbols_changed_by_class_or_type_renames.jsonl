@@ -45,9 +45,7 @@
 {"address": "0x00680890", "old_symbols": ["??0PackageEventActionData_packageeventaction@@QAE@XZ"], "new_symbols": ["??0PackageEventAction@@QAE@XZ"]}
 {"address": "0x006beea0", "old_symbols": ["?CanAddEdge@FUN_006bde50@@QAE_NPAX0@Z"], "new_symbols": ["?CanAddEdge@NavMeshObstacleCutter@@QAE_NPAX0@Z"]}
 {"address": "0x006bf4d0", "old_symbols": ["?CreateObject@FUN_006bde50@@QAEPAXPAX0H@Z"], "new_symbols": ["?CreateObject@NavMeshObstacleCutter@@QAEPAXPAX0H@Z"]}
-{"address": "0x0071f570", "old_symbols": ["??1FUN_0071f570_ModelList@@UAE@XZ"], "new_symbols": ["??1StatsMenu_NamedEffectsList@@UAE@XZ"]}
 {"address": "0x00726070", "old_symbols": ["?GetScript@PackageEventActionData_packageeventaction@@QAEPAXXZ"], "new_symbols": ["?GetScript@PackageEventAction@@QAEPAXXZ"]}
-{"address": "0x007e09b0", "old_symbols": ["?Clear@FUN_0071f570_ModelList@@QAEXXZ"], "new_symbols": ["?Clear@StatsMenu_NamedEffectsList@@QAEXXZ"]}
 {"address": "0x0080f390", "old_symbols": ["??0FUN_0080f390_shell@@QAE@PAVMagicCaster@@PAVMagicItem@@PAVEffectItem@@@Z"], "new_symbols": ["??0LockEffect@@QAE@PAVMagicCaster@@PAVMagicItem@@PAVEffectItem@@@Z"]}
 {"address": "0x00822920", "old_symbols": ["??0FUN_00822920@@QAE@HHHHVNiPoint3@@0@Z"], "new_symbols": ["??0MagicSprayProjectile@@QAE@HHHHVNiPoint3@@0@Z"]}
 {"address": "0x0082eae0", "old_symbols": ["?SetAcousticSpace@SoundPlaybackManager@@SAXPAVBGSAcousticSpace@@@Z"], "new_symbols": ["?SetAcousticSpace@FalloutAudio@@SAXPAVBGSAcousticSpace@@@Z"]}
@@ -68,10 +66,8 @@
 {"address": "0x00a1b450", "old_symbols": ["??0FontTextParams@@QAE@H_NVNiColorA@@H@Z"], "new_symbols": ["??0FontManager_CharData@@QAE@H_NVNiColorA@@H@Z"]}
 {"address": "0x00a4da20", "old_symbols": ["??0FUN_00a4da20_cls@@QAE@XZ"], "new_symbols": ["??0NiKeyframeManager@@QAE@XZ"]}
 {"address": "0x00a66370", "old_symbols": ["?FUN_00a66370@C3B270_Owner@@QAEXPAVC3B270_Object@@@Z"], "new_symbols": ["?FUN_00a66370@C3B270_Owner@@QAEXPAVBSNodeReferences@@@Z"]}
-{"address": "0x00a69e00", "old_symbols": ["??0FUN_00a69e00@@QAE@PAXGFG0@Z"], "new_symbols": ["??0NiTexturingProperty_Map@@QAE@PAXGFG0@Z"]}
 {"address": "0x00a71ec0", "old_symbols": ["?FUN_00a71ec0@CloneA9B3@@QAEXPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?FUN_00a71ec0@NiAmbientLight@@QAEXPAV1@AAVCloningProcessA9B3@@@Z"]}
 {"address": "0x00a9b3d0", "old_symbols": ["?NiAmbientLight_CreateClone@CloneA9B3@@QAEPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?NiAmbientLight_CreateClone@NiAmbientLight@@QAEPAV1@AAVCloningProcessA9B3@@@Z"]}
-{"address": "0x00aca390", "old_symbols": ["??0FUN_00aca390@@QAE@PAX@Z"], "new_symbols": ["??0ios_base_failure@@QAE@PAX@Z"]}
 {"address": "0x00b02860", "old_symbols": ["??1FUN_00b02860@@UAE@XZ"], "new_symbols": ["??1BSWin32TaskletGroupData@@UAE@XZ"]}
 {"address": "0x00b10dc0", "old_symbols": ["??0FUN_00b10dc0@@QAE@PAU0@@Z"], "new_symbols": ["??0CIdvBranch@@QAE@PAU0@@Z"]}
 {"address": "0x00b10e90", "old_symbols": ["??1FUN_00b10dc0@@QAE@XZ"], "new_symbols": ["??1CIdvBranch@@QAE@XZ"]}
@@ -626,16 +622,13 @@
 {"address": "0x0104e1dc", "old_symbols": ["??_7FUN_0062a190@@6B@"], "new_symbols": ["??_7SpecificItemCollector@@6B@"]}
 {"address": "0x0104e438", "old_symbols": ["??_7FUN_0062e590@@6B@"], "new_symbols": ["??_7WaterTargetEntry@@6B@"]}
 {"address": "0x0104e4b0", "old_symbols": ["??_7FUN_00631230@@6B@"], "new_symbols": ["??_7WaterZone@@6B@"]}
-{"address": "0x01070020", "old_symbols": ["??_7FUN_0071f570_ModelList@@6B@"], "new_symbols": ["??_7StatsMenu_NamedEffectsList@@6B@"]}
 {"address": "0x0107a4ac", "old_symbols": ["??_7FUN_0080f390_shell@@6B@"], "new_symbols": ["??_7LockEffect@@6B@"]}
 {"address": "0x0107b8b8", "old_symbols": ["??_7FUN_00822920@@6BSecondaryBase8229@@@"], "new_symbols": ["??_7MagicSprayProjectile@@6BSecondaryBase8229@@@"]}
 {"address": "0x0107b8c4", "old_symbols": ["??_7FUN_00822920@@6BPrimaryBase8229@@@"], "new_symbols": ["??_7MagicSprayProjectile@@6BPrimaryBase8229@@@"]}
 {"address": "0x0108ff98", "old_symbols": ["??_7FUN_009ba550@@6B@"], "new_symbols": ["??_7hkHingeConstraintCinfo@@6B@"]}
 {"address": "0x01094c44", "old_symbols": ["??_7AGValueItem@@6B@"], "new_symbols": ["??_7Tile_RefValueAction@@6B@"]}
 {"address": "0x01098f4c", "old_symbols": ["??_7FUN_00a4da20_cls@@6B@"], "new_symbols": ["??_7NiKeyframeManager@@6B@"]}
-{"address": "0x0109c4c4", "old_symbols": ["??_7FUN_00a69e00@@6B@"], "new_symbols": ["??_7NiTexturingProperty_Map@@6B@"]}
 {"address": "0x010a12cc", "old_symbols": ["??_7CloneA9B3@@6B@"], "new_symbols": ["??_7NiAmbientLight@@6B@"]}
-{"address": "0x010a3070", "old_symbols": ["??_7FUN_00aca390@@6B@"], "new_symbols": ["??_7ios_base_failure@@6B@"]}
 {"address": "0x010a48d8", "old_symbols": ["??_7FUN_00b02860@@6B@"], "new_symbols": ["??_7BSWin32TaskletGroupData@@6B@"]}
 {"address": "0x010becbc", "old_symbols": ["??_7C29E50Object@@6B@"], "new_symbols": ["??_7NiPSysInitialRotSpeedVarCtlr@@6B@"]}
 {"address": "0x010c1364", "old_symbols": ["??_7FactoryObject@@6B@"], "new_symbols": ["??_7BSReference@@6B@"]}
