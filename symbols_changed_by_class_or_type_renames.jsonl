@@ -48,7 +48,6 @@
 {"address": "0x00726070", "old_symbols": ["?GetScript@PackageEventActionData_packageeventaction@@QAEPAXXZ"], "new_symbols": ["?GetScript@PackageEventAction@@QAEPAXXZ"]}
 {"address": "0x007ce660", "old_symbols": ["?FUN_007ce660@StartMenu_Option@@QAEPAXI@Z"], "new_symbols": ["?FUN_007ce660@Option@@QAEPAXI@Z"]}
 {"address": "0x007ce690", "old_symbols": ["?InitPointer@StartMenu_Option@@QAEXXZ"], "new_symbols": ["?InitPointer@Option@@QAEXXZ"]}
-{"address": "0x007d5120", "old_symbols": ["?StartMenu_IdleTimer_Start@FUN_007d5120_Class@@QAEXXZ"], "new_symbols": ["?StartMenu_IdleTimer_Start@IdleTimer@@QAEXXZ"]}
 {"address": "0x007e09b0", "old_symbols": ["?Clear@FUN_0071f570_ModelList@@QAEXXZ"], "new_symbols": ["?Clear@NamedEffectsList@@QAEXXZ"]}
 {"address": "0x0080f390", "old_symbols": ["??0FUN_0080f390_shell@@QAE@PAVMagicCaster@@PAVMagicItem@@PAVEffectItem@@@Z"], "new_symbols": ["??0LockEffect@@QAE@PAVMagicCaster@@PAVMagicItem@@PAVEffectItem@@@Z"]}
 {"address": "0x00822920", "old_symbols": ["??0FUN_00822920@@QAE@HHHHVNiPoint3@@0@Z"], "new_symbols": ["??0MagicSprayProjectile@@QAE@HHHHVNiPoint3@@0@Z"]}
@@ -75,7 +74,6 @@
 {"address": "0x00a9b3d0", "old_symbols": ["?NiAmbientLight_CreateClone@CloneA9B3@@QAEPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?NiAmbientLight_CreateClone@NiAmbientLight@@QAEPAV1@AAVCloningProcessA9B3@@@Z"]}
 {"address": "0x00aca390", "old_symbols": ["??0FUN_00aca390@@QAE@PAX@Z"], "new_symbols": ["??0failure@@QAE@PAX@Z"]}
 {"address": "0x00b02860", "old_symbols": ["??1FUN_00b02860@@UAE@XZ"], "new_symbols": ["??1BSWin32TaskletGroupData@@UAE@XZ"]}
-{"address": "0x00b0a9a0", "old_symbols": ["?CIndexedGeometry_GetNumStrips@GeometryProcessor@@QAEGF@Z"], "new_symbols": ["?CIndexedGeometry_GetNumStrips@CIndexedGeometry@@QAEGF@Z"]}
 {"address": "0x00b10dc0", "old_symbols": ["??0FUN_00b10dc0@@QAE@PAU0@@Z"], "new_symbols": ["??0CIdvBranch@@QAE@PAU0@@Z"]}
 {"address": "0x00b10e90", "old_symbols": ["??1FUN_00b10dc0@@QAE@XZ"], "new_symbols": ["??1CIdvBranch@@QAE@XZ"]}
 {"address": "0x00b11050", "old_symbols": ["?CIdvBranch_Compute@FUN_00b10dc0@@QAEXIMHABUBranchPoint@@MMABUBranchMatrix@@0PAUBranchMesh@@PAXMIM@Z"], "new_symbols": ["?CIdvBranch_Compute@CIdvBranch@@QAEXIMHABUBranchPoint@@MMABUCRotTransform@@0PAUBranchMesh@@PAXMIM@Z"]}
@@ -91,7 +89,6 @@
 {"address": "0x00b14ca0", "old_symbols": ["?CIdvBranch_ComputeFlareEntries@FUN_00b10dc0@@QAEXPAUBranchConfig@@@Z"], "new_symbols": ["?CIdvBranch_ComputeFlareEntries@CIdvBranch@@QAEXPAUBranchConfig@@@Z"]}
 {"address": "0x00b14ed0", "old_symbols": ["?CIdvBranch_ComputeBranchNormals@FUN_00b10dc0@@QAEXPAUBranchMesh@@G@Z"], "new_symbols": ["?CIdvBranch_ComputeBranchNormals@CIdvBranch@@QAEXPAUBranchMesh@@G@Z"]}
 {"address": "0x00b18a60", "old_symbols": ["?UpdateFields_00b18a60@BranchManager@@QAEXUBranchPoint@@UBranchMatrix@@MI@Z"], "new_symbols": ["?UpdateFields_00b18a60@BranchManager@@QAEXUBranchPoint@@UCRotTransform@@MI@Z"]}
-{"address": "0x00b30800", "old_symbols": ["?CIndexedGeometry_ComputeWindEffect@GeometryProcessor@@QAEEG@Z"], "new_symbols": ["?CIndexedGeometry_ComputeWindEffect@CIndexedGeometry@@QAEEG@Z"]}
 {"address": "0x00b3f100", "old_symbols": ["??0RandomNumberGenerator@@QAE@XZ"], "new_symbols": ["??0CIdvRandom@@QAE@XZ"]}
 {"address": "0x00b3f130", "old_symbols": [], "new_symbols": ["?GenerateRandomFloat@CIdvRandom@@QAEMMM@Z"]}
 {"address": "0x00b6c0d0", "old_symbols": ["?SetRenderCamera@BSShaderRenderUtility_bsshaderutil@@SAXPAVNiCamera@@PAVBSShaderAccumulator@@_N@Z"], "new_symbols": ["?SetRenderCamera@BSShaderUtil@@SAXPAVNiCamera@@PAVBSShaderAccumulator@@_N@Z"]}
@@ -114,9 +111,6 @@
 {"address": "0x00d60540", "old_symbols": ["??0MemoryBlockServerState@@QAE@VFinishingFlag@@@Z"], "new_symbols": ["??0hkMemoryBlockServer@@QAE@VFinishingFlag@@@Z"]}
 {"address": "0x00d671f0", "old_symbols": ["??0FUN_00d671f0@@QAE@PAX@Z"], "new_symbols": ["??0hkpRigidBodyInertiaViewer@@QAE@PAX@Z"]}
 {"address": "0x00d698b0", "old_symbols": ["??0FUN_00d698b0@@QAE@PAX@Z"], "new_symbols": ["??0hkpConstraintViewer@@QAE@PAX@Z"]}
-{"address": "0x00d738f0", "old_symbols": [], "new_symbols": ["?_SharedShapeData_recursivelyParseShapeReferences@_SharedShapeData@@QAEXH@Z"]}
-{"address": "0x00d74a20", "old_symbols": ["?_SharedShapeData_removeSingleReferencedShapeData@ShapeData@@QAEXXZ"], "new_symbols": ["?_SharedShapeData_removeSingleReferencedShapeData@_SharedShapeData@@QAEXXZ"]}
-{"address": "0x00d74b20", "old_symbols": ["?_SharedShapeData__SharedShapeData@ShapeData@@QAEPAU1@PAUShapeRefArray@@@Z"], "new_symbols": ["?_SharedShapeData__SharedShapeData@_SharedShapeData@@QAEPAU1@PAUShapeRefArray@@@Z"]}
 {"address": "0x00d9e860", "old_symbols": ["??0FUN_00d9e860@@QAE@XZ"], "new_symbols": ["??0hkpEndOfStepCallbackUtil@@QAE@XZ"]}
 {"address": "0x00db7b40", "old_symbols": ["??0FUN_00db7b40@@QAE@HHH@Z"], "new_symbols": ["??0hkStaticClassNameRegistry@@QAE@HHH@Z"]}
 {"address": "0x00ddc0b0", "old_symbols": ["??1FUN_00ddc0b0@@UAE@XZ"], "new_symbols": ["??1hkStatisticsProcess@@UAE@XZ"]}
