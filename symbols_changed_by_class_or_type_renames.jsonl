@@ -6,6 +6,8 @@
 {"address": "0x00470200", "old_symbols": ["?InsertOrUpdate@IdleAnimationManager@@QAEXPBDPAVIdleAnimationDirectoryEntry@@@Z"], "new_symbols": ["?InsertOrUpdate@TESIdleManager@@QAEXPBDPAVIdleAnimationDirectoryEntry@@@Z"]}
 {"address": "0x00483710", "old_symbols": ["??1ExpressionEvaluator@@QAE@XZ"], "new_symbols": ["??1CExpression@@QAE@XZ"]}
 {"address": "0x004aa3d0", "old_symbols": ["?BGSTextureUseMap_CollectTexUseDataRecursive@FUN_004aa3d0_shell@@QAEXHD@Z"], "new_symbols": ["?BGSTextureUseMap_CollectTexUseDataRecursive@BGSTextureUseMap@@QAEXHD@Z"]}
+{"address": "0x005281f0", "old_symbols": ["?ExteriorCellLoader_TryCancelTasks@TESQueuedCellManager@@QAEHXZ"], "new_symbols": ["?ExteriorCellLoader_TryCancelTasks@ExteriorCellLoader@@QAEHXZ"]}
+{"address": "0x005282d0", "old_symbols": ["?ExteriorCellLoader_WaitForTasks@TESQueuedCellManager@@QAEXXZ"], "new_symbols": ["?ExteriorCellLoader_WaitForTasks@ExteriorCellLoader@@QAEXXZ"]}
 {"address": "0x005283c0", "old_symbols": ["?ExteriorCellLoader_QueueCellLoad@TESQueuedCellManager@@QAEXPAVTESObjectCELL@@@Z"], "new_symbols": ["?ExteriorCellLoader_QueueCellLoad@ExteriorCellLoader@@QAEXPAVTESObjectCELL@@@Z"]}
 {"address": "0x00528540", "old_symbols": ["?ExteriorCellLoader_CancelAllCellLoads@TESQueuedCellManager@@QAEXXZ"], "new_symbols": ["?ExteriorCellLoader_CancelAllCellLoads@ExteriorCellLoader@@QAEXXZ"]}
 {"address": "0x00559450", "old_symbols": ["?ExpressionError@ExpressionEvaluator@@QAE?AW4EXPRESSION_ERROR@@XZ"], "new_symbols": ["?ExpressionError@CExpression@@QAE?AW4EXPRESSION_ERROR@@XZ"]}
@@ -16,6 +18,7 @@
 {"address": "0x005e24d0", "old_symbols": ["?Instance@ScriptExecutor@@SAPAV1@XZ"], "new_symbols": ["?Instance@ScriptRunManager@@SAPAV1@XZ"]}
 {"address": "0x005e2550", "old_symbols": ["??1ScriptExecutor@@QAE@XZ"], "new_symbols": ["??1ScriptRunManager@@QAE@XZ"]}
 {"address": "0x005e2590", "old_symbols": ["?Run@ScriptExecutor@@QAE_NPAVScript@@PAVTESObjectREFR@@PAVScriptLocals@@1_N33M@Z"], "new_symbols": ["?Run@ScriptRunManager@@QAE_NPAVScript@@PAVTESObjectREFR@@PAVScriptLocals@@1_N33M@Z"]}
+{"address": "0x005e2730", "old_symbols": ["?ScriptRunManager_InitActionList@ScriptExecutor@@QAE_NPAVScript@@PAVTESObjectREFR@@PAVScriptLocals@@@Z"], "new_symbols": ["?ScriptRunManager_InitActionList@ScriptRunManager@@QAE_NPAVScript@@PAVTESObjectREFR@@PAVScriptLocals@@@Z"]}
 {"address": "0x005ffc20", "old_symbols": [], "new_symbols": ["?InitializeIdleAnimations@TESIdleManager@@QAEXXZ"]}
 {"address": "0x00600030", "old_symbols": ["?ReleaseStorage_00600030@IdleAnimationManager@@QAEXXZ"], "new_symbols": ["?ReleaseStorage_00600030@TESIdleManager@@QAEXXZ"]}
 {"address": "0x00600690", "old_symbols": [], "new_symbols": ["?GetIdleArray@TESIdleManager@@QAEPAVNiFormArray@@PAVTESForm@@@Z"]}
@@ -45,6 +48,7 @@
 {"address": "0x00726070", "old_symbols": ["?GetScript@PackageEventActionData_packageeventaction@@QAEPAXXZ"], "new_symbols": ["?GetScript@PackageEventAction@@QAEPAXXZ"]}
 {"address": "0x007ce660", "old_symbols": ["?FUN_007ce660@StartMenu_Option@@QAEPAXI@Z"], "new_symbols": ["?FUN_007ce660@Option@@QAEPAXI@Z"]}
 {"address": "0x007ce690", "old_symbols": ["?InitPointer@StartMenu_Option@@QAEXXZ"], "new_symbols": ["?InitPointer@Option@@QAEXXZ"]}
+{"address": "0x007d5120", "old_symbols": ["?StartMenu_IdleTimer_Start@FUN_007d5120_Class@@QAEXXZ"], "new_symbols": ["?StartMenu_IdleTimer_Start@IdleTimer@@QAEXXZ"]}
 {"address": "0x007e09b0", "old_symbols": ["?Clear@FUN_0071f570_ModelList@@QAEXXZ"], "new_symbols": ["?Clear@NamedEffectsList@@QAEXXZ"]}
 {"address": "0x0080f390", "old_symbols": ["??0FUN_0080f390_shell@@QAE@PAVMagicCaster@@PAVMagicItem@@PAVEffectItem@@@Z"], "new_symbols": ["??0LockEffect@@QAE@PAVMagicCaster@@PAVMagicItem@@PAVEffectItem@@@Z"]}
 {"address": "0x00822920", "old_symbols": ["??0FUN_00822920@@QAE@HHHHVNiPoint3@@0@Z"], "new_symbols": ["??0MagicSprayProjectile@@QAE@HHHHVNiPoint3@@0@Z"]}
@@ -59,6 +63,7 @@
 {"address": "0x0084ced0", "old_symbols": ["?FreeChangeData@SaveGameLoader@@SAXXZ"], "new_symbols": ["?FreeChangeData@BGSSaveLoadGlobalData@@SAXXZ"]}
 {"address": "0x0084d070", "old_symbols": ["?LoadEffects@SaveGameLoader@@SAXPAVBGSLoadGameBuffer@@@Z"], "new_symbols": ["?LoadEffects@BGSSaveLoadGlobalData@@SAXPAVBGSLoadGameBuffer@@@Z"]}
 {"address": "0x0084d160", "old_symbols": ["?UnloadGameData@SaveGameLoader@@SAXXZ"], "new_symbols": ["?UnloadGameData@BGSSaveLoadGlobalData@@SAXXZ"]}
+{"address": "0x008d5270", "old_symbols": ["?CharacterProgression_FinishLevelUp@NiNodeBooleanState_falloutcharacterprogression@@QAEXXZ"], "new_symbols": ["?CharacterProgression_FinishLevelUp@CharacterProgression@@QAEXXZ"]}
 {"address": "0x00930c70", "old_symbols": ["?MobileObject_InitHavok@FUN_00822920@@QAEXXZ"], "new_symbols": ["?MobileObject_InitHavok@MagicSprayProjectile@@QAEXXZ"]}
 {"address": "0x0096a2d0", "old_symbols": ["??0ScriptExecutor@@QAE@XZ"], "new_symbols": ["??0ScriptRunManager@@QAE@XZ"]}
 {"address": "0x009ba550", "old_symbols": ["??0FUN_009ba550@@QAE@XZ"], "new_symbols": ["??0hkHingeConstraintCinfo@@QAE@XZ"]}
@@ -69,10 +74,12 @@
 {"address": "0x00a71ec0", "old_symbols": ["?FUN_00a71ec0@CloneA9B3@@QAEXPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?FUN_00a71ec0@NiAmbientLight@@QAEXPAV1@AAVCloningProcessA9B3@@@Z"]}
 {"address": "0x00a9b3d0", "old_symbols": ["?NiAmbientLight_CreateClone@CloneA9B3@@QAEPAV1@AAVCloningProcessA9B3@@@Z"], "new_symbols": ["?NiAmbientLight_CreateClone@NiAmbientLight@@QAEPAV1@AAVCloningProcessA9B3@@@Z"]}
 {"address": "0x00aca390", "old_symbols": ["??0FUN_00aca390@@QAE@PAX@Z"], "new_symbols": ["??0failure@@QAE@PAX@Z"]}
+{"address": "0x00b008d0", "old_symbols": ["?BSContentPackage_DisplayName@FUN_00b008d0_StandIn@@QAEPAXXZ"], "new_symbols": ["?BSContentPackage_DisplayName@BSContentPackage@@QAEPAXXZ"]}
 {"address": "0x00b02860", "old_symbols": ["??1FUN_00b02860@@UAE@XZ"], "new_symbols": ["??1BSWin32TaskletGroupData@@UAE@XZ"]}
 {"address": "0x00b0a9a0", "old_symbols": ["?CIndexedGeometry_GetNumStrips@GeometryProcessor@@QAEGF@Z"], "new_symbols": ["?CIndexedGeometry_GetNumStrips@CIndexedGeometry@@QAEGF@Z"]}
 {"address": "0x00b10dc0", "old_symbols": ["??0FUN_00b10dc0@@QAE@PAU0@@Z"], "new_symbols": ["??0CIdvBranch@@QAE@PAU0@@Z"]}
 {"address": "0x00b10e90", "old_symbols": ["??1FUN_00b10dc0@@QAE@XZ"], "new_symbols": ["??1CIdvBranch@@QAE@XZ"]}
+{"address": "0x00b11050", "old_symbols": ["?CIdvBranch_Compute@FUN_00b10dc0@@QAEXIMHABUBranchPoint@@MMABUBranchMatrix@@0PAUBranchMesh@@PAXMIM@Z"], "new_symbols": ["?CIdvBranch_Compute@CIdvBranch@@QAEXIMHABUBranchPoint@@MMABUCRotTransform@@0PAUBranchMesh@@PAXMIM@Z"]}
 {"address": "0x00b12890", "old_symbols": ["?FUN_00b12890@BranchTransform@@QAE?AUBranchPoint@@ABUBranchMatrix@@@Z"], "new_symbols": ["?FUN_00b12890@BranchTransform@@QAE?AUBranchPoint@@ABUCRotTransform@@@Z"]}
 {"address": "0x00b12940", "old_symbols": ["?Multiply@BranchMatrix@@QAE?AU1@ABU1@@Z"], "new_symbols": ["?Multiply@CRotTransform@@QAE?AU1@ABU1@@Z"]}
 {"address": "0x00b12b50", "old_symbols": ["?TransformVector@BranchMatrix@@QBE?AUBranchPoint@@ABU2@@Z"], "new_symbols": ["?TransformVector@CRotTransform@@QBE?AUBranchPoint@@ABU2@@Z"]}
@@ -83,7 +90,9 @@
 {"address": "0x00b14b40", "old_symbols": ["?CIdvBranch_ComputeVolume@FUN_00b10dc0@@QAEXXZ"], "new_symbols": ["?CIdvBranch_ComputeVolume@CIdvBranch@@QAEXXZ"]}
 {"address": "0x00b14be0", "old_symbols": ["?FindSegment@FUN_00b10dc0@@QAEXPAUBranchChild@@M@Z"], "new_symbols": ["?FindSegment@CIdvBranch@@QAEXPAUBranchChild@@M@Z"]}
 {"address": "0x00b14ca0", "old_symbols": ["?CIdvBranch_ComputeFlareEntries@FUN_00b10dc0@@QAEXPAUBranchConfig@@@Z"], "new_symbols": ["?CIdvBranch_ComputeFlareEntries@CIdvBranch@@QAEXPAUBranchConfig@@@Z"]}
+{"address": "0x00b14ed0", "old_symbols": ["?CIdvBranch_ComputeBranchNormals@FUN_00b10dc0@@QAEXPAUBranchMesh@@G@Z"], "new_symbols": ["?CIdvBranch_ComputeBranchNormals@CIdvBranch@@QAEXPAUBranchMesh@@G@Z"]}
 {"address": "0x00b18a60", "old_symbols": ["?UpdateFields_00b18a60@BranchManager@@QAEXUBranchPoint@@UBranchMatrix@@MI@Z"], "new_symbols": ["?UpdateFields_00b18a60@BranchManager@@QAEXUBranchPoint@@UCRotTransform@@MI@Z"]}
+{"address": "0x00b30800", "old_symbols": ["?CIndexedGeometry_ComputeWindEffect@GeometryProcessor@@QAEEG@Z"], "new_symbols": ["?CIndexedGeometry_ComputeWindEffect@CIndexedGeometry@@QAEEG@Z"]}
 {"address": "0x00b3f100", "old_symbols": ["??0RandomNumberGenerator@@QAE@XZ"], "new_symbols": ["??0CIdvRandom@@QAE@XZ"]}
 {"address": "0x00b3f130", "old_symbols": [], "new_symbols": ["?GenerateRandomFloat@CIdvRandom@@QAEMMM@Z"]}
 {"address": "0x00b6c0d0", "old_symbols": ["?SetRenderCamera@BSShaderRenderUtility_bsshaderutil@@SAXPAVNiCamera@@PAVBSShaderAccumulator@@_N@Z"], "new_symbols": ["?SetRenderCamera@BSShaderUtil@@SAXPAVNiCamera@@PAVBSShaderAccumulator@@_N@Z"]}
@@ -92,6 +101,7 @@
 {"address": "0x00c29e50", "old_symbols": ["?CreateC29E50Object@@YAPAVC29E50Object@@XZ"], "new_symbols": ["?CreateC29E50Object@@YAPAVNiPSysInitialRotSpeedVarCtlr@@XZ"]}
 {"address": "0x00c3b970", "old_symbols": ["?AssignReferencedObject@C3B270_Ref@@QAEAAU1@PAVC3B270_Object@@@Z"], "new_symbols": ["?AssignReferencedObject@C3B270_Ref@@QAEAAU1@PAVBSNodeReferences@@@Z"]}
 {"address": "0x00c4f460", "old_symbols": ["??0C4F460_Node@@QAE@H@Z"], "new_symbols": ["??0BSPortalSharedNode@@QAE@H@Z"]}
+{"address": "0x00c61850", "old_symbols": ["?PArrayPoint_PArrayPoint@@YAPAUExtraData850@@XZ"], "new_symbols": ["?PArrayPoint_PArrayPoint@@YAPAUPArrayPoint@@XZ"]}
 {"address": "0x00c64810", "old_symbols": ["?BSReference_CreateObject@@YAPAVFactoryObject@@XZ"], "new_symbols": ["?BSReference_CreateObject@@YAPAVBSReference@@XZ"]}
 {"address": "0x00c8f510", "old_symbols": ["??0BhkRigidBody@@QAE@XZ"], "new_symbols": ["??0bhkRigidBodyCinfo@@QAE@XZ"]}
 {"address": "0x00cabec0", "old_symbols": ["??0FUN_00cabec0@@QAE@H@Z"], "new_symbols": ["??0ahkpCharacterProxy@@QAE@H@Z"]}
@@ -106,6 +116,8 @@
 {"address": "0x00d671f0", "old_symbols": ["??0FUN_00d671f0@@QAE@PAX@Z"], "new_symbols": ["??0hkpRigidBodyInertiaViewer@@QAE@PAX@Z"]}
 {"address": "0x00d698b0", "old_symbols": ["??0FUN_00d698b0@@QAE@PAX@Z"], "new_symbols": ["??0hkpConstraintViewer@@QAE@PAX@Z"]}
 {"address": "0x00d738f0", "old_symbols": [], "new_symbols": ["?_SharedShapeData_recursivelyParseShapeReferences@_SharedShapeData@@QAEXH@Z"]}
+{"address": "0x00d74a20", "old_symbols": ["?_SharedShapeData_removeSingleReferencedShapeData@ShapeData@@QAEXXZ"], "new_symbols": ["?_SharedShapeData_removeSingleReferencedShapeData@_SharedShapeData@@QAEXXZ"]}
+{"address": "0x00d74b20", "old_symbols": ["?_SharedShapeData__SharedShapeData@ShapeData@@QAEPAU1@PAUShapeRefArray@@@Z"], "new_symbols": ["?_SharedShapeData__SharedShapeData@_SharedShapeData@@QAEPAU1@PAUShapeRefArray@@@Z"]}
 {"address": "0x00d9e860", "old_symbols": ["??0FUN_00d9e860@@QAE@XZ"], "new_symbols": ["??0hkpEndOfStepCallbackUtil@@QAE@XZ"]}
 {"address": "0x00db7b40", "old_symbols": ["??0FUN_00db7b40@@QAE@HHH@Z"], "new_symbols": ["??0hkStaticClassNameRegistry@@QAE@HHH@Z"]}
 {"address": "0x00ddc0b0", "old_symbols": ["??1FUN_00ddc0b0@@UAE@XZ"], "new_symbols": ["??1hkStatisticsProcess@@UAE@XZ"]}
