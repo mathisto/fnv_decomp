@@ -1,0 +1,768 @@
+{"kind": "F", "reason": "virtual function (its override family would have to change together)", "count": 6973}
+{"kind": "F", "reason": "no definition found in the index", "count": 5552}
+{"kind": "M", "reason": "build rejected it", "count": 783}
+{"kind": "F", "reason": "declared twice under two names in one file", "count": 714}
+{"kind": "P", "reason": "build rejected it", "count": 521}
+{"kind": "F", "reason": "build rejected it", "count": 462}
+{"kind": "V", "reason": "build rejected it", "count": 237}
+{"kind": "P", "reason": "the function body already uses that name", "count": 148}
+{"kind": "V", "reason": "declared twice under two names in one file", "count": 146}
+{"kind": "R", "reason": "real class NiPSysFieldMagnitudeCtlr already defined in the tree", "count": 140}
+{"kind": "P", "reason": "no source location found", "count": 120}
+{"kind": "F", "reason": "a function of that name already exists", "count": 101}
+{"kind": "R", "reason": "real class hkBaseObject already defined in the tree", "count": 99}
+{"kind": "F", "reason": "PDB name is compiler-generated", "count": 88}
+{"kind": "F", "reason": "the class, a base or a derived class already has a member of that name", "count": 83}
+{"kind": "R", "reason": "real class hkpShapeContainer already defined in the tree", "count": 80}
+{"kind": "R", "reason": "build rejected it", "count": 42}
+{"kind": "R", "reason": "real class hkpWorldPostSimulationListener already defined in the tree", "count": 39}
+{"kind": "R", "reason": "real class bhkConstraint already defined in the tree", "count": 38}
+{"kind": "F", "reason": "two functions of one class would get the same name", "count": 30}
+{"kind": "R", "reason": "real class bhkExtendedMeshShapeData already defined in the tree", "count": 24}
+{"kind": "R", "reason": "real class bhkShape already defined in the tree", "count": 22}
+{"kind": "R", "reason": "real class hkpCollidableCollidableFilter already defined in the tree", "count": 22}
+{"kind": "R", "reason": "real class hkpShapeCollectionFilter already defined in the tree", "count": 22}
+{"kind": "R", "reason": "real class hkpRayShapeCollectionFilter already defined in the tree", "count": 22}
+{"kind": "R", "reason": "real class hkpRayCollidableFilter already defined in the tree", "count": 22}
+{"kind": "R", "reason": "real class bhkRagdollConstraint already defined in the tree", "count": 20}
+{"kind": "R", "reason": "real class hkpEntityListener already defined in the tree", "count": 19}
+{"kind": "R", "reason": "real class Tile already defined in the tree", "count": 17}
+{"kind": "R", "reason": "real class hkpShape already defined in the tree", "count": 16}
+{"kind": "R", "reason": "real class hkpConstraintInstance already defined in the tree", "count": 16}
+{"kind": "R", "reason": "several upstream classes map to ahkpWorld", "count": 15}
+{"kind": "R", "reason": "real class Results already defined in the tree", "count": 14}
+{"kind": "F", "reason": "third-party or C source left as it is", "count": 14}
+{"kind": "R", "reason": "real class StartMenu already defined in the tree", "count": 13}
+{"kind": "R", "reason": "real class bhkSphereRepShape already defined in the tree", "count": 13}
+{"kind": "R", "reason": "real class bhkHingeConstraint already defined in the tree", "count": 12}
+{"kind": "R", "reason": "real class Collector already defined in the tree", "count": 12}
+{"kind": "R", "reason": "real class hkpDisableEntityCollisionFilter already defined in the tree", "count": 12}
+{"kind": "R", "reason": "real class hkxMaterialShaderSet already defined in the tree", "count": 12}
+{"kind": "R", "reason": "real class bhkShapeCollection already defined in the tree", "count": 11}
+{"kind": "R", "reason": "real class hkpSymmetricAgentFlipBodyCollector already defined in the tree", "count": 11}
+{"kind": "R", "reason": "real class hkpCollisionFilterList already defined in the tree", "count": 11}
+{"kind": "R", "reason": "real class hkpRagdollConstraintData already defined in the tree", "count": 11}
+{"kind": "R", "reason": "real class bhkConvexShape already defined in the tree", "count": 10}
+{"kind": "R", "reason": "real class hkpSymmetricAgentFlipCollector already defined in the tree", "count": 10}
+{"kind": "R", "reason": "real class hkpShapeCollection already defined in the tree", "count": 10}
+{"kind": "R", "reason": "real class bhkCapsuleShape already defined in the tree", "count": 9}
+{"kind": "R", "reason": "real class InterfacedClass already defined in the tree", "count": 9}
+{"kind": "R", "reason": "real class hkpMaxSizeMotion already defined in the tree", "count": 9}
+{"kind": "R", "reason": "real class bhkGenericConstraint already defined in the tree", "count": 9}
+{"kind": "R", "reason": "real class bhkLimitedHingeConstraint already defined in the tree", "count": 9}
+{"kind": "R", "reason": "real class WeaponObject already defined in the tree", "count": 9}
+{"kind": "R", "reason": "several upstream classes map to hkBufferedStreamWriter", "count": 9}
+{"kind": "R", "reason": "several upstream classes map to hkScaledMoppBvTreeShape", "count": 9}
+{"kind": "R", "reason": "real class hkProcess already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class hkpWorldViewerBase already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class bhkPackedNiTriStripsShape already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class hkpMalleableConstraintData already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class bhkFixedConstraint already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class bhkHingeLimitsConstraint already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class bhkBallSocketConstraintChain already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class bhkBallAndSocketConstraint already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class bhkMoppBvTreeShape already defined in the tree", "count": 8}
+{"kind": "R", "reason": "real class hkpPositionConstraintMotor already defined in the tree", "count": 8}
+{"kind": "R", "reason": "several upstream classes map to BSWArray", "count": 8}
+{"kind": "R", "reason": "several upstream classes map to hkpRagdollLimitsData", "count": 8}
+{"kind": "R", "reason": "several upstream classes map to hkLiquidAction", "count": 8}
+{"kind": "R", "reason": "several upstream classes map to NiDX9SourceTextureData", "count": 8}
+{"kind": "M", "reason": "the class already has a member of that name", "count": 8}
+{"kind": "R", "reason": "real class BSWin32GameSound already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class NiCullingProcess already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class bhkSerializable already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class bhkConvexVerticesShape already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class NiRefObject already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class hkDisplayBox already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class hkpConstraintListener already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class hkpCollisionFilter already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class hkDisplayAABB already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class NiTriShape already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class bhkListShape already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class bhkRagdollTemplateData already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class bhkRagdollTemplate already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class bhkExtraData already defined in the tree", "count": 7}
+{"kind": "R", "reason": "real class hkMemoryMeshShape already defined in the tree", "count": 7}
+{"kind": "R", "reason": "several upstream classes map to hkxTextureFile", "count": 7}
+{"kind": "R", "reason": "several upstream classes map to hkKdTreeBundleCastCollector", "count": 7}
+{"kind": "R", "reason": "real class Actor already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class NiTimeController already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class bhkLiquidAction already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class PathingRequestCoveredMove already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class Setting already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class bhkMultiSphereShape already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class hkpWorldCinfo already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class bhkBvTreeShape already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class hkpPhysicsContextWorldListener already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class hkpTyremarksWheel already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class IdvFileError already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class bhkBlendController already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class bhkConstraintChain already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class hkaAnimationPreviewColorContainer already defined in the tree", "count": 6}
+{"kind": "R", "reason": "real class hkpGroupCollisionFilter already defined in the tree", "count": 6}
+{"kind": "R", "reason": "several upstream classes map to BSFurnitureMarker", "count": 6}
+{"kind": "R", "reason": "several upstream classes map to BSScissorTriShape", "count": 6}
+{"kind": "R", "reason": "real class MiddleLowProcess already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class bhkUnaryAction already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpAllCdPointCollector already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkDisplayCapsule already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpMoppCode already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class NiBinaryExtraData already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class TESObjectLAND already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class TESObjectANIO already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class bhkSimpleShapePhantom already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class bhkEntity already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpPhantom already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkDataRefCounted already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpPointToPathConstraintData already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class NiPathInterpolator already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpSimpleShapePhantom already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpSweptTransformDisplayViewer already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkDisplayCone already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpSimpleMeshShape already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkxNode already defined in the tree", "count": 5}
+{"kind": "R", "reason": "real class hkpCallbackConstraintMotor already defined in the tree", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to BSFaceGenBinaryFile", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to BSMasterParticleSystem", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to ExtraCreatureAwakeSound", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to CollideShapeTriangle", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to TriangleOverlap", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to SimpleCollector", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to IConvexShape", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to hkpGenericConstraintData", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to bhkTriSampledHeightFieldBvTreeShape", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to bhkCharacterStateInAir", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to bhkBinaryAction", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to hkNiTriStripsShape", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to hkPackedNiTriStripsShape", "count": 5}
+{"kind": "R", "reason": "several upstream classes map to hkxTextureInplace", "count": 5}
+{"kind": "R", "reason": "real class hkpAllRayHitCollector already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class BeamProjectile already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class MiddleHighProcess already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class PathingRequestSafeStraightLine already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class FORenderedMenuRaceSex already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class MagicProjectile already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpConvexPieceMeshShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class BSOcclusionPlane already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class ExtraFollowerSwimBreadcrumbs already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class TESRegionDataGrass already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class TESRegionGrassObject already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class BSTreeModel already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkTransformShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class BSPackedAdditionalGeometryData already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkBoxShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class NiLines already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class NiBlendTransformInterpolator already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class NiRenderer already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class NiAdditionalGeometryData already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkErrStream already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkDisplayCylinder already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkDisplaySphere already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpGroupFilter already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpExtendedMeshShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpListShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpTriSampledHeightFieldCollection already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpTriangleShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpBinaryAction already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpNullCollisionFilter already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpCachingShapePhantom already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpPhysicsSystem already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpWorld already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpMoppCodeGenerator already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class ExtraRefractionProperty already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class ExtraModdingItem already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class TESRecipeCategory already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class BSFaceGenImage already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkNiCollisionObject already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkCharacterProxy already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkMalleableConstraint already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkOrientHingedBodyAction already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkMotorAction already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkDashpotAction already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkWheelConstraint already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkStiffSpringConstraint already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkRagdollLimitsConstraint already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class bhkPrismaticConstraint already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpMotion already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkaWaveletCompressedAnimation already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class hkpCompressedSampledHeightFieldShape already defined in the tree", "count": 4}
+{"kind": "R", "reason": "real class NiShaderConstantMapEntry already defined in the tree", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkpMoppCachedShapeMediator", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkpBroadphaseViewer", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkpToiContactPointViewer", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkpToiCountViewer", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkpSimulationIslandViewer", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to ExtraTalkingActor", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to bhkCollisionBox", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to bhkRagdollPenetrationUtil", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkMalleableConstraintCinfo", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkBallAndSocketConstraintCinfo", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkRagdollConstraintCinfo", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to ahkpBreakableConstraintData", "count": 4}
+{"kind": "R", "reason": "several upstream classes map to hkpConstrainedSystemFilter", "count": 4}
+{"kind": "P", "reason": "one source position would get two names", "count": 4}
+{"kind": "R", "reason": "real class BSThread already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class Extra already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSFileCache already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class SpectatorPackage already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class PlayerCharacter already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkaSkeleton already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkRagdollController already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class CombatProcedureAttackMelee already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class Creature already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class DialoguePackage already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TrespassPackage already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class QueuedFile already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class PathingRequest already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TES already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NonActorMagicCaster already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TurnUndeadEffect already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class ZeroOverheadHeap already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class ExtraSecuritronFace already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class ExtraPortal already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpCdBodyPairCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TESWaterListener already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class PathingLOSMap already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class PathingRequestCover already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSTempEffectDebris already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TESForm already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TESIdleForm already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TESLeveledList already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TESLevCharacter already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkPhantom already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkSphereShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkCachingShapePhantom already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkTriangleShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkCylinderShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkConvexTransformShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkConvexSweepShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkConvexListShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkRigidBody already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiBSBoneLODController already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiOBBNode already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiGeometryData already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiNode already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkaSplineCompressedAnimation already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkxEnvironment already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkQuaternion already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpFlagCdBodyPairCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpMultiRayConvexAgent already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpCdPointCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpBroadPhaseCastCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkKdTreeCastCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpMeshShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpAction already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class Factory already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpPoweredChainData already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpAabbPhantom already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpCharacterProxy already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpPhantomListener already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpContactListener already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpClosestRayHitCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpVehicleInstance already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class HavokError already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiProperty already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class INIPrefSettingCollection already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class TESRegionDataSound already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class CBSAStream already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiTriBasedGeom already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSTaskThread already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSSceneGraph already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSTextureData already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class NiIntegerExtraData already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSXFlags already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class BSAttachPoints already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkReferencedObjectLock already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkRefObject already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkDebugDisplay already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkPoseArray already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkCharacterPointCollector already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkAngularDashpotAction already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class bhkBreakableConstraint already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpStiffSpringConstraintData already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpThinBoxMotion already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpBvTreeShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpTriSampledHeightFieldBvTreeShape already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpShapeInfo already defined in the tree", "count": 3}
+{"kind": "R", "reason": "real class hkpConstraintChainInstance already defined in the tree", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to bhkRagdollShareData", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to OpenEffect", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to ExtraModelSwap", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to bhkShapePhantom", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to NiZBufferProperty", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to IConvexOverlap", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to hkKdTreeCpuBroadphaseBundleCastCollector", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to NearestHitCollector", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to MtBroadPhaseBorderListener", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to hkpKdTreeCollidableRaycaster", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to hkpUserShapeDisplayBuilder", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to logic_error", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to bad_alloc", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to LockFreeMapIterator", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to BSParticleSystemManager", "count": 3}
+{"kind": "R", "reason": "several upstream classes map to bhkBlendCollisionObjectAddRotation", "count": 3}
+{"kind": "F", "reason": "no source location found", "count": 3}
+{"kind": "R", "reason": "real class AudioLoadTask already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSAudioManagerThread already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSAudioManager already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class QueuedChildren already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class AnimatingText already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class Tile3D already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TileText already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ShadowLightShader already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESPackage already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class CombatAction already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class CombatCoverMap already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class CombatGroup already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class CombatThreatMap already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpFixedBufferCdPointCollector already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class Explosion already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class Projectile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class GrenadeProjectile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ContinuousBeamProjectile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class MobileObject already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class SandBoxActorPackageData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class FOVATSEffectManager already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TileRect already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class StatsMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BlackJackMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TraitSelectMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class CaravanMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class MessageMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class HUDMainMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TraitMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ActiveEffect already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class MagicShaderHitEffect already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class MagicFogProjectile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class MemoryManagerFile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSCullingProcess already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class Script already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSMultiBoundAABB already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BGSStaticCollection already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BGSTalkingActivator already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BGSTerminal already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraCellCanopyShadowMask already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraPatrolRefData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraTresPassPackage already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class bhkMouseSpringAction already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class AlchemyItem already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class IngredientItem already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ReferenceObstacleArray already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NavMeshPOVSearch already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class PathingCoverLocation already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class PathingTaskData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESRegionDataLandscape already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESRegionList already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiSkinInstance already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSTempEffectSimpleDecal already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESCasino already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESFurniture already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESModel already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESObjectCELL already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSAnimNoteReceiver already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class FlameProjectile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class bhkHeightFieldShape already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class bhkRigidBodyT already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESTopic already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESRegionDataWeather already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiPSysVortexFieldModifier already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiBlendFloatInterpolator already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiFloatInterpolator already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSMultiBound already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiD3DGPUProgramCache already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiD3DPass already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiD3DShaderConstantMap already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiD3DHLSLVertexShader already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiD3DShaderProgramFactory already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiScreenGeometryData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiDDSReader already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiImageReader already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiMaterial already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiFile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkFreeListMemorySystem already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkxAttributeHolder already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkDataObjectNative already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkPackfileWriter already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkMemoryResourceContainer already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkProcessHandler already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkDisplayConvex already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpStorageExtendedMeshShape already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpRigidBody already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class bhkWorld already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpSerializedAgentNnEntry already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpPhysicsContext already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpWorldDeletionListener already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpActionListener already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpWeldingViewer already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpVehicleViewer already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpFirstPersonGun already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraHeadingTarget already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraHasNoRumors already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraAmmo already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraInfoGeneralTopic already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraActivateRefChildren already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraWeaponModFlags already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraActorCause already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraEditorRefMoveData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraSound already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiAlphaProperty already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ExtraSayTopicInfoOnceADay already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BGSAmmoForm already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BGSClipRoundsForm already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSAnimGroupSequence already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESEffectShader already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESLevSpell already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiBillboardNode already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESFlora already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BGSAcousticSpaceListener already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESAnimGroup already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESEyes already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESHair already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSFaceGenModelMap already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class Entry already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSFaceGenKeyframeMultiple already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class PathingSearchRayCast already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TeleportDoorSearch already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class VATSMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class FORenderedMenu already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class CureEffect already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class MagicBallProjectile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NonActorMagicTarget already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class FAMThread already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class HighActorCuller already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ActorMover already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class ActorPathHandler already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiFloatData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSBlendTreadTransfInterpolator already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSAnimNote already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiSequence already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiExtraDataController already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiDefaultAVObjectPalette already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiScreenElementsData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiShader already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class IMemoryHeap already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSAudio already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSFile already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSGameSound already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSWin32FileCache already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiSkinnedEmitterData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSMultiBoundRoom already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSDebrisNode already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSBound already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiAVObject already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class BSPSysSimpleColorModifier already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiIntegersExtraData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class bhkSpringAction already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpConvexVerticesShape already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class hkpVehicleData already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class NiD3DShaderConstantManager already defined in the tree", "count": 2}
+{"kind": "R", "reason": "real class TESSkill already defined in the tree", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to UserOption", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to StatusDataList", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to MagicBoltProjectile", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to BGSSaveLoadStatsMap", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to ExtraDetachTime", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to NavMeshSearchSLPoint", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to TESRegionGrassObjectList", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to runtime_error", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to NiIntersector", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to NiTGAReader", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkaAnimationBinding", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkLeakDetectAllocator", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to TreeTreeCollector", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkxScene", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkObjectCopier", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to ArrayOfTuplesImplementation", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkpStorageMeshShape", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkpNullContactMgrFactory", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to MtEntityEntityBroadPhaseListener", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to MtPhantomBroadPhaseListener", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkpMultiThreadedSimulation", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkpConvexRadiusViewer", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to CBillboardLeaf", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to ExtraActivateLoopSound", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to IO_Thread", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to BSTasklet", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to BSParentVelocityModifier", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to BSPSysArrayEmitter", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkpSymmetricAgentFlipCastCollector", "count": 2}
+{"kind": "R", "reason": "several upstream classes map to hkLocalFrameGroup", "count": 2}
+{"kind": "P", "reason": "third-party or C source left as it is", "count": 2}
+{"kind": "F", "reason": "one source position would get two names", "count": 2}
+{"kind": "R", "reason": "real class LipTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class IDebugText already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DebugText already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class RadialTile already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class SystemColorManager already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Value already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BarterMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BeamShader already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiTriShapeDynamicData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class FleePackage already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ActorUpdateTaskData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BaseProcess already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatGoalKillTarget already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatGoalUseCombatItem already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatGoalActivateCombatItem already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatProcedureActivateObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatProcedureEngageTarget already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatProcedureEvade already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatTargetMap already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class UseWeaponActorPackageData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class HighProcess already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DetailedActorPathHandler already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PathingRequestLOS already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class FOPipboyManager already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Interface already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PlayerNameEntryMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class FORenderedTerminal already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TileImage already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Action already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class SurgeryMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CompanionWheelMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CreditsMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DialogMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class LoadingMenuThread already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class LevelUpMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class RecipeMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CharGenMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class MagicModelHitEffect already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ArrowProjectile already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class MagicTarget already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSReconstructCellsMap already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class AnimIdle already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class AnimSequenceSingle already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSAcousticSpace already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSAddonNode already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSConstructibleObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSExplosion already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSPlaceableWater already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSEntryPointFunctionDataActivateChoice already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSLightingTemplate already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSVoiceType already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSMovableStatic already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSPerk already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSProjectile already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSQuestObjective already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSRagdoll already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSTextureSet already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSTerrainChunkLoadTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraCellImpactSwap already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraPrimitive already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraOcclusionPlaneRefData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraPortalRefData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraRoomRefData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraLock already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraEnableStateChildren already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraActivateRef already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraRagDollData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraDecalRefs already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraMultiBound already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraRoom already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraDistantData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSFaceGenModel already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class bhkAction already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ImageSpaceModifierInstance already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class InventoryChanges already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class EffectItemList already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class EnchantmentItem already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class MagicItem already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class MagicItemObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class MediaLocationController already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESAmmoEffect already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedTexture already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedTreeBillboard already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedReplacementKF already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedHelmet already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedReference already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class AttachDistant3DTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedReplacementKFList already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class QueuedAnimIdle already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NavMeshInfoSearch already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ObstacleData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PathBuilder already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PathingLOSGridMap already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PathingRequestHide already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESRegionDataImposter already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESRegionDataMap already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Clouds already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class SkyObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESAIForm already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESBipedModelForm already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESCaravanDeck already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESCasinoChips already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESActorBase already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESDataHandler already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESCombatStyle already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESFaction already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESImageSpace already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESGrass already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESModelAnim already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectLIGH already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class RadioConvTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectACTI already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CheckWithinMultiBoundTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectCONT already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectMISC already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraAnimNoteReceiver already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectSTAT already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectWEAP already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ChangesMap already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESSpellList already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESTexture already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ImageSpaceEffectParam already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiAVObjectPalette already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiControllerSequence already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPosData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiStringPalette already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiTextureTransformController already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiTransformController already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiTransformData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiBoundingVolume already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiUnionBV already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiFragmentShaderInstanceDescriptor already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiDX9Renderer already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPersistentSrcTextureRendererData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiD3DHLSLPixelShader already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSDismemberSkinInstance already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSTreadTransfInterpolator already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysMeshEmitter already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiFogProperty already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiGPUProgramCache already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiImageConverter already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiNIFImageReader already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiObjectNET already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Ni2DBuffer already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiScreenGeometry already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPixelFormat already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiD3DShaderProgram already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiSpotLight already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSShaderTextureSet already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiTriStripsDynamicData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysAirFieldModifier already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysCollider already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiBoolData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysEmitterCtlr already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysEmitterDeclinationCtlr already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysFieldAttenuationCtlr already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysGravityStrengthCtlr already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysGrowFadeModifier already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkaAnimation already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkStatisticsCollector already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkSolverAllocator already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkSystemMemoryBlockServer already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpConstraintCollisionFilter already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkOstream already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkArrayStreamWriter already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkOArchive already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkMemoryStreamReader already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkSocket already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpShapePhantom already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class View already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkDataObjectDict already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkProcessFactory already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkServerProcessHandler already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkDisplayGeometry already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkDisplayPlane already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpBvTreeAgent already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpShapeCollectionAgent already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpMultiSphereAgent already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ShapeSubpartStorage already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpMoppModifier already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpConvexTransformShapeBase already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpPlaneShape already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpStorageSampledHeightFieldShape already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpMultiRayShape already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpSimpleContactConstraintData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpPrismaticConstraintData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpLimitedHingeConstraintData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpConstraintMotor already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpLimitedForceConstraintMotor already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpSpringDamperConstraintMotor already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpClosestCdPointCollector already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpCharacterMotion already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpSphereMotion already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpWorldObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpSimulation already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpKdTreeWorldManager already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpMoppDefaultAssembler already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpAngularDashpotAction already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpPhantomDisplayViewer already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpProjectileGun already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpBallGun already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkError already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSHungerStage already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSDehydrationStage already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExtraCell3D already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESValueForm already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class GridCellArray already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSPrimitive already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSDecalNode already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ExteriorCellLoaderTask already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSZoneTargetListener already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSMenuIcon already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSMusicType already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSCameraShot already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESRecipe already defined in the tree", "count": 1}
+{"kind": "R", "reason": "no source location found", "count": 1}
+{"kind": "R", "reason": "real class TESSound already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class bhkEntityListener already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class LoadedAreaBound already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESTrapListener already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Atmosphere already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Sky already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkFileSystem already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class Stars already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CellMopp already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NavMeshSearchHide already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ObstacleUndoData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ObstacleTaskData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class SystemColor already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TextEditMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class StatusEffectList already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class ContainerMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class LockPickMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class LoadingMenu already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DisintegrateArmorEffect already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DetectLifeEffect already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DisintegrateWeaponEffect already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class DispelEffect already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BGSMoviePlayer already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class LowProcess already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatGoal already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class CombatWorldStateArray already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PatrolActorPackageData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BackUpPackage already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class EscortActorPackageData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class PlayerMover already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiLODData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSNiAllocator already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiMemStream already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiShaderFactory already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiGlobalConstantEntry already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class FutBinaryFileC already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSWin32TaskletManager already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSTaskletGroupData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSShaderAccumulator already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiD3DPixelShader already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiPSysBoundUpdateModifier already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class IOManager already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSCompoundFrustum already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class BSDecalPlacementVectorExtraData already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkDisplaySemiCircle already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpMotorAction already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkpConstraintChainInstanceAction already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class MoviePlayer already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiShaderDeclaration already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class NiMaterialResource already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectCLOT already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESIconTree already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESModelTree already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESObjectTREE already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class TESReputation already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class bhkWorldObject already defined in the tree", "count": 1}
+{"kind": "R", "reason": "real class hkPackedNiTriStripsData already defined in the tree", "count": 1}
+{"kind": "M", "reason": "a method of the class (or a derived class) already uses that name", "count": 1}
+{"kind": "V", "reason": "a global of that name already exists", "count": 1}
